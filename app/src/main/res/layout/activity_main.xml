@@ -48,7 +48,7 @@
             android:layout_height="wrap_content"
 
             android:background="@drawable/layout_bg_button"
-            android:text="SING OUT"
+            android:text="SIGN OUT"
             app:backgroundTint="@null"
             android:textColor="@color/white"
             />
